@@ -1,0 +1,6 @@
+Student name 		Rollno 		  Marks
+Shaheer shah   		FA20-BCS-079      43
+Farhan Ahmed            FA20-BCS-099      47
+Sheraz khan             FA20_BCS-150      32
+Fazeela rehman          FA20-BCS-090      38
+Awab Khan               FA20-BCS-070      49

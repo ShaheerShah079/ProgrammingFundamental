@@ -1,0 +1,3 @@
+shaheer        3000
+umair          5000
+zain           1000
